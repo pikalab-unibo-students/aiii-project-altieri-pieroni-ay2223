@@ -17,4 +17,4 @@ kivy-garden==0.1.5
 screeninfo==0.8.1
 sympy==1.12
 igraph==0.11.4
-plotly==5.20.0
+plotly==5.21.0
